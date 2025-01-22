@@ -1,5 +1,3 @@
-"# TakeCareMind" 
-
 🌿 Take Care Mind - Application de Bien-être Mental et de Développement Personnel
 ---------------------------------------------------------------------------------
 
